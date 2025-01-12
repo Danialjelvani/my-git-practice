@@ -1,0 +1,13 @@
+git --version
+git config --system --edit
+git config --global --edit
+git config --local --edit
+git config --global core.editor "code --wait"
+git config --list
+git config --list --show-origin
+git init
+dir /a tu view all files(including hidden) in cmd and dir /s tu view subdirectories
+git status
+git add
+git commit -m "my description"
+git log 
