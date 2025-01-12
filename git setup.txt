@@ -10,4 +10,4 @@ dir /a tu view all files(including hidden) in cmd and dir /s tu view subdirector
 git status
 git add
 git commit -m "my description"
-git log 
+git log
