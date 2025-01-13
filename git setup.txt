@@ -27,3 +27,10 @@ git --cached mese git --staged e
 git difftool az vscode baz mikone
 git difftool (inja agar id ya hash ro bznm nesbat b un snapshot taghirat ro mige)
 git difftool -y bedune y zdn khodesh dune dune baz mikone
+git checkout file barmigarde b akharin snapshot e file bedune bargasht
+git rm file file ro remove mikone va stagesh mikone
+git rm --cached miado faht az tu git pak mikoneo file asli ru harddisck hast
+git rm -f az ru harddisc file ro pak mikone
+move krdn eyek file az dide git mese rename kardaneshe
+git mv file newfilepath move mikone file ro
+
