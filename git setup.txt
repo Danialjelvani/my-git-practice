@@ -49,3 +49,15 @@ file jadid ro add mikonim k snapshotemun naghes nabashe
 albate in git commit --amend vaghti ba ye teami kar miknim doros nist
 git reset az stage kharej mikone
 git checkout barmigarde b commite ghabli
+
+#remote
+git remote listeshun ro neshun mide
+git remote -v listeshun ro ba url neshun mide
+git remote add esmesh(mamoolanorigin) url
+git remote remove esmesh pak mikone
+git fetch esmesh hame chiza repo ro az remote meso log neshun mideo add mikone ama merge nmikone ba code khodemun
+git branch branch haro neshun mide
+git branch -a branchaye hidden k add shodero hm neshun mide
+git push origin main push mikone be remote va vase inke hei nakkhaim type knim
+origino maino minevisim git push -u origin main k injuri yadesh mimune
+azun b bad git push miznim
