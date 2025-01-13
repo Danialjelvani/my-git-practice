@@ -37,6 +37,7 @@ git mv file newfilepath move mikone file ro
 #log
 git log -p -3 ba jozeeyat 3 commit akharo log mikone
 git log --stat kholase mige
+git log --oneline
 git log --pretty=oneline
 git log --pretty=format:"%h - %an : %s"
 git log --pretty=oneline --graph
@@ -61,3 +62,11 @@ git branch -a branchaye hidden k add shodero hm neshun mide
 git push origin main push mikone be remote va vase inke hei nakkhaim type knim
 origino maino minevisim git push -u origin main k injuri yadesh mimune
 azun b bad git push miznim
+git remote rename ghadimi jadid
+
+#tag
+git tag v1.0 ba ya bedune hash edamash
+git tag tagaro neshun mide
+git tag -a -m "annotation" va dar edamash git show v1.0
+git push origin v1.0 ya vase hame taga git push origin --tags
+git tag --d pak mikone
