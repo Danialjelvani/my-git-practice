@@ -34,3 +34,18 @@ git rm -f az ru harddisc file ro pak mikone
 move krdn eyek file az dide git mese rename kardaneshe
 git mv file newfilepath move mikone file ro
 
+#log
+git log -p -3 ba jozeeyat 3 commit akharo log mikone
+git log --stat kholase mige
+git log --pretty=oneline
+git log --pretty=format:"%h - %an : %s"
+git log --pretty=oneline --graph
+git log --since=1.week
+
+#undo
+git log -S "file" search mikone tu kudum string "file" hast
+git commit --amend male vaghtie k commit akhari ye filiro kam dare be akharin snapshot
+file jadid ro add mikonim k snapshotemun naghes nabashe
+albate in git commit --amend vaghti ba ye teami kar miknim doros nist
+git reset az stage kharej mikone
+git checkout barmigarde b commite ghabli
