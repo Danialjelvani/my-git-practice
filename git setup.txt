@@ -16,3 +16,8 @@ mirize va bad cd mikonim b git k dg khodesh .git dareo niaz b git init nist)
 git reset (az staging undo mikone)
 git add "*.py" tamamie .py haro add mikone
 git status -s (kholase neshun mide)
+.gitignore mirizim dakhlesh
+age * bezarim tu .gitignore hamero ignore mikoneo siah
+b joz una k az ghabl addo commit krdim k unaro bayad delete knim age bekhaim
+moghe sakhte repo tu github mitunim besh bgim .gitignore bznim masalan by default python
+git add . k bznim hamero tu working directory add mikone
