@@ -13,3 +13,5 @@ git commit -m "my description"
 git log
 git clone url(baraye import az remote repo k ye folder git tu directorymun
 mirize va bad cd mikonim b git k dg khodesh .git dareo niaz b git init nist)
+git reset (az staging undo mikone)
+git add "*.py" tamamie .py haro add mikone
