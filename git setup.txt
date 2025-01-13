@@ -21,3 +21,9 @@ age * bezarim tu .gitignore hamero ignore mikoneo siah
 b joz una k az ghabl addo commit krdim k unaro bayad delete knim age bekhaim
 moghe sakhte repo tu github mitunim besh bgim .gitignore bznim masalan by default python
 git add . k bznim hamero tu working directory add mikone
+git diff taghirat working directory ro nesbat b akharin snapshot neshun mide
+git diff --staged taghirat stage ro nesbat b last snapshot neshun mide
+git --cached mese git --staged e
+git difftool az vscode baz mikone
+git difftool (inja agar id ya hash ro bznm nesbat b un snapshot taghirat ro mige)
+git difftool -y bedune y zdn khodesh dune dune baz mikone
