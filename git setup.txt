@@ -70,3 +70,8 @@ git tag tagaro neshun mide
 git tag -a -m "annotation" va dar edamash git show v1.0
 git push origin v1.0 ya vase hame taga git push origin --tags
 git tag --d pak mikone
+
+#aliases
+git config --global alias.shortwordemun "kari k mikone"
+git last:tanzim shod b git log -p -1
+git l:tanzim shod b git log --oneline
