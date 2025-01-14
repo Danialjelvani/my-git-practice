@@ -75,3 +75,7 @@ git tag --d pak mikone
 git config --global alias.shortwordemun "kari k mikone"
 git last:tanzim shod b git log -p -1
 git l:tanzim shod b git log --oneline
+git s:tanzim shod b git status -s
+
+#set new url for repo(after repo renaming for ex.)
+git remote set-url origin NEW_URL
